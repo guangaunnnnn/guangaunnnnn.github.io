@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Jia-Rong Guan</title>
+    <title>Blogs on Guan Jia-Rong</title>
     <link>https://guangaunnnnn.github.io/blog/</link>
-    <description>Recent content in Blogs on Jia-Rong Guan</description>
+    <description>Recent content in Blogs on Guan Jia-Rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 10:07:47 +0800</lastBuildDate>
     
 	<atom:link href="https://guangaunnnnn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>星巴克APP : 新增外送功能改版設計</title>
+      <link>https://guangaunnnnn.github.io/blog/test2/</link>
+      <pubDate>Thu, 16 Apr 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://guangaunnnnn.github.io/blog/test2/</guid>
+      <description>版權說明：外送ICON為中國星巴克APP版權所屬
+ 產品背景
+讓偶爾有喝咖啡習慣、且有申辦星巴克星享卡的用戶，能更快速選購星巴克商品。並且針對上不方便外出購買咖啡、或是再開會前需購買咖啡飲品的上班族，提供此類服務需求。
+用戶需求
+  滿足預定功能
+  了解訂單情況</description>
+    </item>
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
@@ -32,15 +46,6 @@
 2.標題
 一級標題 二級標題 六級標題 3.粗體 4.斜體
 5.有序序列(會自動計算)</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guangaunnnnn.github.io/blog/test2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guangaunnnnn.github.io/blog/test2/</guid>
-      <description>一級標題 Hello World! </description>
     </item>
     
   </channel>
