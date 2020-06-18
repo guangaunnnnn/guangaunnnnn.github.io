@@ -6,20 +6,31 @@
     <description>Recent content in Blogs on Guan Jia-Rong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Apr 2020 10:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 10:07:47 +0800</lastBuildDate>
     
 	<atom:link href="https://guangaunnnnn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>健保快易通APP Redesign</title>
+      <link>https://guangaunnnnn.github.io/blog/post02/</link>
+      <pubDate>Wed, 06 May 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://guangaunnnnn.github.io/blog/post02/</guid>
+      <description>版權說明：上圖LOGO為健保快易通版權所屬，插圖為自行繪製。
+ 引導頁
+ 新增「醫療健康」、「防疫資訊」做功能引導說明 新增「登入」按鈕，保護使用者隱私 插圖：讓大眾在產品體驗更輕鬆、更直觀   APP界面插圖的趨勢： 圖是設計對於概念概念最直觀的方式，可以讓用戶更好地理解產品背後的想法，透過脈絡敘事，幫助用戶在產品與網站中的體驗，盡可能輕鬆和流暢（UX 設計），一個好的故事可以幫助用戶更輕鬆地了解產品。</description>
+    </item>
+    
+    <item>
       <title>星巴克APP : 新增外送功能改版設計</title>
-      <link>https://guangaunnnnn.github.io/blog/test2/</link>
+      <link>https://guangaunnnnn.github.io/blog/post01/</link>
       <pubDate>Thu, 16 Apr 2020 10:07:47 +0800</pubDate>
       
-      <guid>https://guangaunnnnn.github.io/blog/test2/</guid>
-      <description>版權說明：外送ICON為中國星巴克APP版權所屬
+      <guid>https://guangaunnnnn.github.io/blog/post01/</guid>
+      <description>版權說明：上圖中ICON為台灣星巴克APP版權所屬，除外送ICON為中國星巴克APP版權所屬，其餘ICON、插圖為自行繪製。
  產品背景
-讓偶爾有喝咖啡習慣、且有申辦星巴克星享卡的用戶，能更快速選購星巴克商品。並且針對上不方便外出購買咖啡、或是再開會前需購買咖啡飲品的上班族，提供此類服務需求。
+讓偶爾有喝咖啡習慣、且有申辦星巴克星享卡的用戶，能更快速選購星巴克商品。並且針對上班不方便外出購買咖啡、或是再開會前需購買咖啡飲品的上班族，提供此類服務需求。
 用戶需求
   滿足預定功能
   了解訂單情況</description>
@@ -27,10 +38,10 @@
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://guangaunnnnn.github.io/blog/post-13/</link>
+      <link>https://guangaunnnnn.github.io/blog/z-post-13-example/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://guangaunnnnn.github.io/blog/post-13/</guid>
+      <guid>https://guangaunnnnn.github.io/blog/z-post-13-example/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
